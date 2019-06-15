@@ -1,7 +1,0 @@
-C:\Users\Alisa\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe.config
-C:\Users\Alisa\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe
-C:\Users\Alisa\source\repos\Lab03\Lab03\bin\Debug\Lab03.pdb
-C:\Users\Alisa\source\repos\Lab03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
-C:\Users\Alisa\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
-C:\Users\Alisa\source\repos\Lab03\Lab03\obj\Debug\Lab03.exe
-C:\Users\Alisa\source\repos\Lab03\Lab03\obj\Debug\Lab03.pdb

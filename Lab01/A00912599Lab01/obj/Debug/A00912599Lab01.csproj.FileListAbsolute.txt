@@ -1,7 +1,0 @@
-c:\users\alisa\source\repos\A00912599Lab01\A00912599Lab01\bin\Debug\A00912599Lab01.exe.config
-c:\users\alisa\source\repos\A00912599Lab01\A00912599Lab01\bin\Debug\A00912599Lab01.exe
-c:\users\alisa\source\repos\A00912599Lab01\A00912599Lab01\bin\Debug\A00912599Lab01.pdb
-c:\users\alisa\source\repos\A00912599Lab01\A00912599Lab01\obj\Debug\A00912599Lab01.csprojResolveAssemblyReference.cache
-c:\users\alisa\source\repos\A00912599Lab01\A00912599Lab01\obj\Debug\A00912599Lab01.csproj.CoreCompileInputs.cache
-c:\users\alisa\source\repos\A00912599Lab01\A00912599Lab01\obj\Debug\A00912599Lab01.exe
-c:\users\alisa\source\repos\A00912599Lab01\A00912599Lab01\obj\Debug\A00912599Lab01.pdb

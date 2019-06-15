@@ -1,5 +1,0 @@
-Larry,Sanders,67
-Tim,Conway,83
-Louis,CK,49
-Lewis,Black,66
-Jerry,Seinfeld,62
