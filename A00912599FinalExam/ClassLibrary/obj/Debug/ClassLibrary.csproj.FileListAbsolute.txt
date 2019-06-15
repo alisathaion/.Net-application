@@ -1,0 +1,6 @@
+C:\Users\Alisa\source\repos\A00912599FinalExam\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Alisa\source\repos\A00912599FinalExam\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Alisa\source\repos\A00912599FinalExam\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\A00912599FinalExam\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Alisa\source\repos\A00912599FinalExam\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Alisa\source\repos\A00912599FinalExam\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache

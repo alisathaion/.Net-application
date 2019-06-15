@@ -1,0 +1,6 @@
+C:\Users\Alisa\source\repos\A00912599Assign06\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\Users\Alisa\source\repos\A00912599Assign06\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\Users\Alisa\source\repos\A00912599Assign06\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\A00912599Assign06\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\Users\Alisa\source\repos\A00912599Assign06\BusinessLibrary\obj\Debug\BusinessLibrary.pdb
+C:\Users\Alisa\source\repos\A00912599Assign06\BusinessLibrary\obj\Debug\BusinessLibrary.csprojResolveAssemblyReference.cache

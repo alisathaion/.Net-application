@@ -1,0 +1,7 @@
+c:\users\alisa\source\repos\COMP2614Midterm\COMP2614Midterm\bin\Debug\COMP2614Midterm.exe.config
+c:\users\alisa\source\repos\COMP2614Midterm\COMP2614Midterm\bin\Debug\COMP2614Midterm.exe
+c:\users\alisa\source\repos\COMP2614Midterm\COMP2614Midterm\bin\Debug\COMP2614Midterm.pdb
+c:\users\alisa\source\repos\COMP2614Midterm\COMP2614Midterm\obj\Debug\COMP2614Midterm.csprojResolveAssemblyReference.cache
+c:\users\alisa\source\repos\COMP2614Midterm\COMP2614Midterm\obj\Debug\COMP2614Midterm.csproj.CoreCompileInputs.cache
+c:\users\alisa\source\repos\COMP2614Midterm\COMP2614Midterm\obj\Debug\COMP2614Midterm.exe
+c:\users\alisa\source\repos\COMP2614Midterm\COMP2614Midterm\obj\Debug\COMP2614Midterm.pdb

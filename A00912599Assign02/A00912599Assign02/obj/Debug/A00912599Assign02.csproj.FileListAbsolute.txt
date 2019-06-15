@@ -1,0 +1,7 @@
+C:\Users\Alisa\source\repos\A00912599Assign02\A00912599Assign02\bin\Debug\A00912599Assign02.exe.config
+C:\Users\Alisa\source\repos\A00912599Assign02\A00912599Assign02\bin\Debug\A00912599Assign02.exe
+C:\Users\Alisa\source\repos\A00912599Assign02\A00912599Assign02\bin\Debug\A00912599Assign02.pdb
+C:\Users\Alisa\source\repos\A00912599Assign02\A00912599Assign02\obj\Debug\A00912599Assign02.csprojResolveAssemblyReference.cache
+C:\Users\Alisa\source\repos\A00912599Assign02\A00912599Assign02\obj\Debug\A00912599Assign02.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\A00912599Assign02\A00912599Assign02\obj\Debug\A00912599Assign02.exe
+C:\Users\Alisa\source\repos\A00912599Assign02\A00912599Assign02\obj\Debug\A00912599Assign02.pdb

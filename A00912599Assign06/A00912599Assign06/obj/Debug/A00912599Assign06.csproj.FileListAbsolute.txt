@@ -1,0 +1,15 @@
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\bin\Debug\A00912599Assign06.exe.config
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\bin\Debug\A00912599Assign06.exe
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\bin\Debug\A00912599Assign06.pdb
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.csprojResolveAssemblyReference.cache
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.CustomerForm.resources
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.Properties.Resources.resources
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.csproj.GenerateResource.cache
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.csproj.CoreCompileInputs.cache
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.exe
+c:\users\alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.pdb
+C:\Users\Alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.CustomerEditDialog.resources
+C:\Users\Alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.TableCreator.resources
+C:\Users\Alisa\source\repos\A00912599Assign06\A00912599Assign06\bin\Debug\BusinessLibrary.dll
+C:\Users\Alisa\source\repos\A00912599Assign06\A00912599Assign06\bin\Debug\BusinessLibrary.pdb
+C:\Users\Alisa\source\repos\A00912599Assign06\A00912599Assign06\obj\Debug\A00912599Assign06.csproj.CopyComplete

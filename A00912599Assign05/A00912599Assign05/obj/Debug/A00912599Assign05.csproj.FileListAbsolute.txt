@@ -1,0 +1,10 @@
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\bin\Debug\A00912599Assign05.exe.config
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\bin\Debug\A00912599Assign05.exe
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\bin\Debug\A00912599Assign05.pdb
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\obj\Debug\A00912599Assign05.csprojResolveAssemblyReference.cache
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\obj\Debug\A00912599Assign05.ValidatorForm.resources
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\obj\Debug\A00912599Assign05.Properties.Resources.resources
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\obj\Debug\A00912599Assign05.csproj.GenerateResource.cache
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\obj\Debug\A00912599Assign05.csproj.CoreCompileInputs.cache
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\obj\Debug\A00912599Assign05.exe
+c:\users\alisa\source\repos\A00912599Assign05\A00912599Assign05\obj\Debug\A00912599Assign05.pdb

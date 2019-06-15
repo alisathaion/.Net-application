@@ -1,0 +1,13 @@
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\bin\Debug\A00912599FinalExam.exe.config
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\bin\Debug\A00912599FinalExam.exe
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\bin\Debug\A00912599FinalExam.pdb
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\obj\Debug\A00912599FinalExam.csprojResolveAssemblyReference.cache
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\obj\Debug\A00912599FinalExam.MainForm.resources
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\obj\Debug\A00912599FinalExam.Properties.Resources.resources
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\obj\Debug\A00912599FinalExam.csproj.GenerateResource.cache
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\obj\Debug\A00912599FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\obj\Debug\A00912599FinalExam.exe
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\obj\Debug\A00912599FinalExam.pdb
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\bin\Debug\ClassLibrary.dll
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\bin\Debug\ClassLibrary.pdb
+C:\Users\Alisa\source\repos\A00912599FinalExam\A00912599FinalExam\obj\Debug\A00912599FinalExam.csproj.CopyComplete
